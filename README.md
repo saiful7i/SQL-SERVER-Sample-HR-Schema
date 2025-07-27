@@ -11,9 +11,9 @@ To create this schema on your database:
     2. Open  SQL SERVER MANAGEMENT STUDIO.
     3. Open query Prompret to Run Script.
 # Run script 
-    01. Run Script 01 to create HR Database and Table
-    02. Run Script 02 to Insert Data into Tables
-    03. Run script 03 to Perform other steps after populating data, such as indexes and comments .
+    01. Run Script 01 to create HR Database and Table.
+    02. Run Script 02 to Insert Data into Tables.
+    03. Run script 03 to create indexes.
 
 The schema is now ready for use!
 
