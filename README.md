@@ -21,4 +21,4 @@ The schema is now ready for use!
 
 Here's the ERD of the HR schema used: 
 
-![App Screenshot](https://github.com/saiful7i/IMAGE-FOR-OTHER-REPO/blob/main/120085247-c9dd5180-c119-11eb-8d06-d8cfd5a1a60f.pngg)
+![App Screenshot](https://github.com/saiful7i/IMAGE-FOR-OTHER-REPO/blob/main/120085247-c9dd5180-c119-11eb-8d06-d8cfd5a1a60f.png)
