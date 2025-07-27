@@ -14,6 +14,9 @@ To create this schema on your database:
     01. Run Script 01 to create HR Database and Table.
     02. Run Script 02 to Insert Data into Tables.
     03. Run script 03 to create indexes.
+    04. Run script 04 to create procedure and statement trigger to allow dmls during business hours.
+    05. Run script 05 to Add comments to tables and columns
+    06. Run script 06 to check all table and data. 
 
 The schema is now ready for use!
 
